@@ -1,4 +1,5 @@
 # https://platzi.com/clases/1775-poo-python/25224-abstraccion/
+# Que importa y que no importa
 class Lavadora:
     def __init__(self) -> None:
         pass

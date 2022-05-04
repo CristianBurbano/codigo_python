@@ -1,4 +1,5 @@
 # https://platzi.com/clases/1775-poo-python/25223-decomposicion/
+# Separar el problema en cosas mas pequeñas.
 class Automovil:
     def __init__(self, modelo, marca, color) -> None:
         self.modelo = modelo
